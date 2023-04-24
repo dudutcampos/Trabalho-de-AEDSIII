@@ -1,0 +1,107 @@
+cenario1-30dias
+Infectado 10
+probabilidadeI 0.5
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 30
+cenario1/cenario1-30dias.txt
+
+cenario1-50dias
+Infectado 10
+probabilidadeI 0.3
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 50
+cenario1/cenario1-50dias.txt
+
+cenario2-30dias
+Recuperados 10
+probabilidadeI 0.5
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 30
+cenario2/cenario2-30dias.txt
+
+cenario2-50dias
+Recuperados 10
+probabilidadeI 0.3
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 50
+cenario2/cenario2-50dias.txt
+
+cenario3-30dias
+Infectado 10
+probabilidadeI 0.5
+probabilidadeR 0.1
+timedelayI 6
+timedelayR 5
+tfinal 30
+cenario3/cenario3-30dias.txt
+
+cenario3-50dias
+Infectado 10
+probabilidadeI 0.3
+probabilidadeR 0.1
+timedelayI 4
+timedelayR 5
+tfinal 50
+cenario3/cenario3-50dias.txt
+
+cenario4-30dias
+Infectados 2
+probabilidadeI 0.4
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 30
+cenario4/cenario4-30dias.txt
+
+cenario4-50dias
+Infectados 2
+probabilidadeI 0.3
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 50
+cenario4/cenario4-50dias.txt
+
+cenario5-30dias
+Recuperados 10
+probabilidadeI 0.4
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 30
+cenario5/cenario5-30dias.txt
+
+cenario5-50dias
+Recuperados 10
+probabilidadeI 0.3
+probabilidadeR 0.1
+timedelayI 1
+timedelayR 5
+tfinal 50
+cenario5/cenario5-50dias.txt
+
+cenario6-30dias
+Infectados 2
+probabilidadeI 0.4
+probabilidadeR 0.1
+timedelayI 5
+timedelayR 5
+tfinal 30
+cenario6/cenario6-30dias.txt
+
+cenario6-50dias
+Infectados 2
+probabilidadeI 0.3
+probabilidadeR 0.1
+timedelayI 4
+timedelayR 5
+tfinal 50
+cenario6/cenario6-50dias.txt
