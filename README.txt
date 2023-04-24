@@ -1,4 +1,4 @@
-# Trabalhode-AEDSIII
+#Trabalho-de-AEDSIII
 Trabalho desenvolvido durante a disciplina de Algoritmos e Estrutura de Dados 3 na UFSJ.
 
 No repositorio contem a descrição do trabalho e a analize de desempenho dos algoritmos usados para simular uma pandemia com grafos.
